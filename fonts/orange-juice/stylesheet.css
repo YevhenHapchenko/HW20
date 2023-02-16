@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'orange juice';
+    src: url('orangejuice.eot');
+    src: url('orangejuice.eot?#iefix') format('embedded-opentype'),
+        url('orangejuice.woff2') format('woff2'),
+        url('orangejuice.woff') format('woff'),
+        url('orangejuice.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
